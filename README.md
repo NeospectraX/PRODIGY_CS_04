@@ -111,7 +111,7 @@ h e l l o  [SPACE] w o r l d  [ENTER]
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License**.
+This project is licensed under the ** Unlicense license **.
 
 💬 _Developed by Ashok (Nickname: NeospectraX). Contributions are welcome!_
 
