@@ -28,7 +28,7 @@ A Python-based keylogger simulation tool for educational purposes, consisting of
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/key-log-simulator.git
+git clone https://github.com/NeospectraX/PRODIGY_CS_04.git
 cd key-log-simulator
 ```
 
